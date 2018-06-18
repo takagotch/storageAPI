@@ -1,5 +1,6 @@
-## localstorage
+### localstorage
+---
 
-## sessionstorage
+### sessionstorage
 
 
